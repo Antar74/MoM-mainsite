@@ -1,3 +1,11 @@
+
+.gris-color{color:#D1D3D4;}
+.gris-fondo{background-color:#D1D3D4;}
+
 body {
       font-family: 'Poppins', sans-serif;
+}
+.texto-intro {
+  font-size: 1.25rem;
+
 }
