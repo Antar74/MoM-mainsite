@@ -5,7 +5,14 @@
 body {
       font-family: 'Poppins', sans-serif;
 }
-.texto-intro {
-  font-size: 1.25rem;
 
+.texto-normal {
+  font-size: 1rem;
+}
+.texto-intro {
+  font-size: 1.5rem;
+}
+.titulo-normal{
+  font-size: 1.5rem;
+  font-weight: 600;
 }
