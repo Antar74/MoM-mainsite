@@ -34,3 +34,11 @@ body {
 .MoM-shadow {
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
 }
+
+
+// X-Small devices (portrait phones, less than 576px) 
+@media (max-width: 575.98px) {
+  #MoM-slogan {
+    background-color: #000;
+  }
+}
