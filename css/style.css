@@ -36,9 +36,15 @@ body {
 }
 
 
-// X-Small devices (portrait phones, less than 576px) 
 @media (max-width: 575.98px) {
   #MoM-slogan {
-    background-color: #000;
+    background-color: #D1D3D4;
+    margin-top:3rem;
+    margin-bottom:1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  #inicio hr {
+    display:none;
   }
 }
