@@ -47,4 +47,7 @@ body {
   #inicio hr {
     display:none;
   }
+  .medium-widget-article__grid {
+    flex-direction: column;
+  }
 }
