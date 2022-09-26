@@ -19,12 +19,15 @@ body {
 }
 
 #top-middle {
+  background-image: url(https://mom-lab.studio/animal/images/textura-pato-loro-glitch-min.jpg);
+background-size: cover;
   grid-column: 2;
   grid-row: 1;
 }
 
 #bottom-middle {
   background-image: url(https://mom-lab.studio/animal/images/textura-pato-loro-glitch-min.jpg);
+  background-size: cover;
   grid-column: 2;
   grid-row: 2;
 }
