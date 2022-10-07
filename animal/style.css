@@ -34,7 +34,7 @@ img {
   font-weight: bold;
 }
 .text-small {
-  font-size: 16px;
+  font-size: 12px;
 }
 .grid {
   background: var(--colorTheme);
@@ -78,7 +78,7 @@ img {
 }
 
 .title--primary .text-bold {
-  font-size: max(10vw, 60px);
+  font-size: max(6vw, 40px);
 }
 
 .info {
