@@ -22,7 +22,9 @@ img {
   width: 100%;
   height: auto;
 }
-
+.logo {
+  width:75vw;
+}
 
 .text-light {
   font-weight: 300;
