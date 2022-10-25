@@ -3,6 +3,9 @@
   --colorTheme: #E54C4C;
 }
 
+a {
+  color: #fff;
+}
 *,
 *::before,
 *::after {
